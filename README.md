@@ -1,4 +1,4 @@
-# MetaCrawl - A CS 4675 Project
+# MetaCrawl
 
 ## Introduction
 
@@ -16,7 +16,7 @@ npm install puppeteer
 
 > **Note**: You need [Node.js](https://nodejs.org/en/) installed first. 
 
-### TA Grading Usage
+### Lite Version Usage
 You may run the Lite version which scrape 20 pages to check the functionality:
 ```sh
 node metaCrawlLite
