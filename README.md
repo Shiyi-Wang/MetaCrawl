@@ -4,7 +4,7 @@
 
 This is a web scraper for [Meta Career jobs openings](https://www.metacareers.com/jobs) using Puppeteer.
 
-> Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/).
+> Puppeteer is a Node library which provides a high-level API to control Chrome over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/).
 
 ## Getting Started
 
